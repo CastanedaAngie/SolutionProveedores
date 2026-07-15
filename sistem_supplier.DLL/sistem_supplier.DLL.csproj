@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sistem_supplier. Models\sistem_supplier. Models.csproj" />
+    <ProjectReference Include="..\sistem_supplier.DAL\sistem_supplier.DAL.csproj" />
+    <ProjectReference Include="..\sistem_supplier.DTO\sistem_supplier.DTO.csproj" />
+    <ProjectReference Include="..\sistem_supplier.UTILITY\sistem_supplier.UTILITY.csproj" />
+  </ItemGroup>
+
+</Project>

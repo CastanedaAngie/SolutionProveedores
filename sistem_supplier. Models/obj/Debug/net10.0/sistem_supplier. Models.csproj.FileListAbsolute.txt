@@ -1,0 +1,14 @@
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\bin\Debug\net10.0\sistem_supplier. Models.deps.json
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\bin\Debug\net10.0\sistem_supplier. Models.runtimeconfig.json
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\bin\Debug\net10.0\sistem_supplier. Models.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\bin\Debug\net10.0\sistem_supplier. Models.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.csproj.AssemblyReference.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.AssemblyInfoInputs.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.AssemblyInfo.cs
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\refint\sistem_supplier. Models.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.genruntimeconfig.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\ref\sistem_supplier. Models.dll

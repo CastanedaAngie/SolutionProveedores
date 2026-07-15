@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="sistem_supplier. Models/sistem_supplier. Models.csproj" />
+  <Project Path="sistem_supplier.API/sistem_supplier.API.csproj" />
+  <Project Path="sistem_supplier.DAL/sistem_supplier.DAL.csproj" />
+  <Project Path="sistem_supplier.DLL/sistem_supplier.DLL.csproj" />
+  <Project Path="sistem_supplier.DTO/sistem_supplier.DTO.csproj" />
+  <Project Path="sistem_supplier.IOC/sistem_supplier.IOC.csproj" />
+  <Project Path="sistem_supplier.UTILITY/sistem_supplier.UTILITY.csproj" />
+</Solution>

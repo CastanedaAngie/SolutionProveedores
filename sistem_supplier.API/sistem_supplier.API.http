@@ -1,0 +1,6 @@
+@sistem_supplier.API_HostAddress = http://localhost:5103
+
+GET {{sistem_supplier.API_HostAddress}}/
+Accept: application/json
+
+###

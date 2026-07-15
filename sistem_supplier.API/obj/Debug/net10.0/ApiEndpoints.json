@@ -1,0 +1,138 @@
+[
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.PaisController",
+    "Method": "Lista",
+    "RelativePath": "api/Pais/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ProveedorController",
+    "Method": "Create",
+    "RelativePath": "api/Proveedor/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estado",
+        "Type": "sistem_supplier.DTO.ProveedorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ProveedorController",
+    "Method": "Delete",
+    "RelativePath": "api/Proveedor/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ProveedorController",
+    "Method": "Lista",
+    "RelativePath": "api/Proveedor/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ProveedorController",
+    "Method": "Update",
+    "RelativePath": "api/Proveedor/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estado",
+        "Type": "sistem_supplier.DTO.ProveedorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ServicioController",
+    "Method": "Create",
+    "RelativePath": "api/Servicio/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estado",
+        "Type": "sistem_supplier.DTO.ServicioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ServicioController",
+    "Method": "Delete",
+    "RelativePath": "api/Servicio/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ServicioController",
+    "Method": "Lista",
+    "RelativePath": "api/Servicio/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ServicioController",
+    "Method": "Update",
+    "RelativePath": "api/Servicio/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estado",
+        "Type": "sistem_supplier.DTO.ServicioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sistem_supplier.API.Controllers.ServicioProveedorController",
+    "Method": "Lista",
+    "RelativePath": "api/ServicioProveedor/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

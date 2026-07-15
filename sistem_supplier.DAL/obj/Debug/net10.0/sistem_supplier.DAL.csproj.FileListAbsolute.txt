@@ -1,0 +1,15 @@
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\bin\Debug\net10.0\sistem_supplier.DAL.deps.json
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\bin\Debug\net10.0\sistem_supplier.DAL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\bin\Debug\net10.0\sistem_supplier.DAL.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.AssemblyInfoInputs.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.AssemblyInfo.cs
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\refint\sistem_supplier.DAL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\ref\sistem_supplier.DAL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\bin\Debug\net10.0\sistem_supplier. Models.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\bin\Debug\net10.0\sistem_supplier. Models.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.csproj.AssemblyReference.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_s.1CFABCE6.Up2Date

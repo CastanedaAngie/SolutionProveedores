@@ -1,0 +1,21 @@
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.DLL.deps.json
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.DLL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.DLL.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.AssemblyInfoInputs.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.AssemblyInfo.cs
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\refint\sistem_supplier.DLL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\ref\sistem_supplier.DLL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier. Models.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.DAL.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.DTO.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.UTILITY.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier. Models.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.DAL.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.DTO.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.UTILITY.pdb
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.csproj.AssemblyReference.cache
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_s.F2A7BCE6.Up2Date

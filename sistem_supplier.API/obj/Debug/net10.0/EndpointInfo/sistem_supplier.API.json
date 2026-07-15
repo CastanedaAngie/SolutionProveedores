@@ -1,0 +1,289 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "sistem_supplier.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Pais/Lista": {
+      "get": {
+        "tags": [
+          "Pais"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Proveedor/Lista": {
+      "get": {
+        "tags": [
+          "Proveedor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Proveedor/Create": {
+      "post": {
+        "tags": [
+          "Proveedor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProveedorDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProveedorDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProveedorDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Proveedor/Update": {
+      "put": {
+        "tags": [
+          "Proveedor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProveedorDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProveedorDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProveedorDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Proveedor/Delete/{id}": {
+      "delete": {
+        "tags": [
+          "Proveedor"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Servicio/Lista": {
+      "get": {
+        "tags": [
+          "Servicio"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Servicio/Create": {
+      "post": {
+        "tags": [
+          "Servicio"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServicioDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServicioDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServicioDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Servicio/Update": {
+      "put": {
+        "tags": [
+          "Servicio"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServicioDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServicioDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServicioDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Servicio/Delete/{id}": {
+      "delete": {
+        "tags": [
+          "Servicio"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ServicioProveedor/Lista": {
+      "get": {
+        "tags": [
+          "ServicioProveedor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ProveedorDTO": {
+        "type": "object",
+        "properties": {
+          "idProveedor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nomProveedor": {
+            "type": "string",
+            "nullable": true
+          },
+          "campo_Adicional": {
+            "type": "string",
+            "nullable": true
+          },
+          "nitProveedor": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ServicioDTO": {
+        "type": "object",
+        "properties": {
+          "idServicio": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nom_Servicio": {
+            "type": "string",
+            "nullable": true
+          },
+          "valor_hora": {
+            "type": "number",
+            "format": "double"
+          },
+          "pais": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Pais"
+    },
+    {
+      "name": "Proveedor"
+    },
+    {
+      "name": "Servicio"
+    },
+    {
+      "name": "ServicioProveedor"
+    }
+  ]
+}
