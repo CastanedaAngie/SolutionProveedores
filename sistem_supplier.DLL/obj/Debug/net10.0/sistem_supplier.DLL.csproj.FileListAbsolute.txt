@@ -19,3 +19,4 @@ C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\bin\Debug\net10.0\sistem_supplier.UTILITY.pdb
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.csproj.AssemblyReference.cache
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_s.F2A7BCE6.Up2Date
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DLL\obj\Debug\net10.0\sistem_supplier.DLL.sourcelink.json

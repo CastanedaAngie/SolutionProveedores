@@ -13,3 +13,4 @@ C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\bin\Debug\net10.0
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\bin\Debug\net10.0\sistem_supplier. Models.pdb
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.csproj.AssemblyReference.cache
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_s.1CFABCE6.Up2Date
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DAL\obj\Debug\net10.0\sistem_supplier.DAL.sourcelink.json

@@ -90,3 +90,4 @@ C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.API\bin\Debug\net10.0
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.API\obj\Debug\net10.0\sistem_supplier.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.API\obj\Debug\net10.0\sistem_supplier.API.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.pdb
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.genruntimeconfig.cache
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\ref\sistem_supplier. Models.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier. Models\obj\Debug\net10.0\sistem_supplier. Models.sourcelink.json

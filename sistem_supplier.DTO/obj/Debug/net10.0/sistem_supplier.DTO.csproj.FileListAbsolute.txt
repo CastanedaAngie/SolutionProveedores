@@ -9,3 +9,4 @@ C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DTO\obj\Debug\net10.0
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DTO\obj\Debug\net10.0\refint\sistem_supplier.DTO.dll
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DTO\obj\Debug\net10.0\sistem_supplier.DTO.pdb
 C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DTO\obj\Debug\net10.0\ref\sistem_supplier.DTO.dll
+C:\Users\ANGIE\Desktop\SolutionProveedores\sistem_supplier.DTO\obj\Debug\net10.0\sistem_supplier.DTO.sourcelink.json
